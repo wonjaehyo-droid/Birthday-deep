@@ -2,9 +2,9 @@
 # 🎂 Happy Birthday Deepuu! 💖
 
 <div align="center">
-  <img src= "deep5244__14050109_18.jpg" width="250" style="border-radius: 15px;">
-  <img src= "SAVE_20250929_224254.jpg" width="250" style="border-radius: 15px;">
-  <img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
+  <img src= "pic1 deep5244__14050109_18.jpg" width="250" style="border-radius: 15px;">
+  <img src= "pic2 SAVE_20250929_224254.jpg" width="250" style="border-radius: 15px;">
+  <img src= "pic3 IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
 
   <br><br>
 
