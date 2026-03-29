@@ -25,7 +25,7 @@
   ### 🎵 Listen to our song:
   <audio controls>
     <source src="song.mp3" type="audio/mpeg">
-    ### 🎵 [Click here to play our song, Deepuu!](song.mp3) 🎶
-
-  </audio>
-</divas/>
+    
+### 🎵 [Deepuu, click here to play our song!](song.mp3) 🎶
+ <\bekhudi.songmp3/>
+ 
