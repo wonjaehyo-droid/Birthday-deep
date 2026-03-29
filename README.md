@@ -1,52 +1,31 @@
 # Birthday-deep
-# Birthday
-<!DOCTYPE html>
-<html>
-<head>
-<title>Happy Birthday 💖</title>
-<style>
-body {
-  text-align: center;
-  background: linear-gradient(to right, #ff9a9e, #fad0c4);
-  font-family: Arial;
-  color: #333;
-  padding: 30px;
-}
-.box {
-  background: white;
-  padding: 20px;
-  border-radius: 15px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
-}
-h1 {
-  color: #ff4d6d;
-}
-</style>
-</head>
+# 🎂 Happy Birthday Deepuu! 💖
 
-<body>
+<div align="center">
+  <img src=deepuu "pic1.jpg" width="250" style="border-radius: 15px;">
+  <img src=deepuu "pic2.jpg" width="250" style="border-radius: 15px;">
+  <img src=deepuu "pic3.jpg" width="250" style="border-radius: 15px;">
 
-<div class="box">
-<h1>🎂 Happy Birthday Deepuuu 💖</h1>
+  <br><br>
 
-<p>
-Deepak,<br><br>
-sach bolu… main tumhare saath bahut khush rehti hoon.<br>
-Tumhari smile mujhe itni achchi lagti hai ki mood instantly better ho jata hai.<br><br>
+  <div style="background: white; padding: 20px; border-radius: 15px; color: #333; max-width: 600px;">
+    <h2>🌸 Happy Birthday Deepuuu 💖</h2>
+    <p>
+      Deepak,<br><br>
+      Sach bolu.. main tumhare saath bahut khush rehti hoon.<br>
+      Tumhari smile mujhe itni achchi lagti hai ki mood instantly better ho jata hai.<br><br>
+      Tumhara gaana sunna.. woh alag hi feeling deta hai.<br>
+      Aur haan, kabhi kabhi tumhari yaad bhi aati hai.. kaafi zyada.<br><br>
+      Bas aise hi hamesha smile karte rehna. ✨
+    </p>
+  </div>
 
-Tumhara gaana sunna… woh alag hi feeling deta hai.<br>
-Aur haan, kabhi kabhi tumhari yaad bhi aati hai… kaafi zyada.<br><br>
+  <br>
 
-Bas aise hi hamesha smile karte rehna.<br><br>
-
-💖
-</p>
-
-<audio autoplay loop controls>
-  <source src="song.mp3" type="audio/mpeg">
-</audio>
-
+  ### 🎵 Listen to our song:
+  <audio controls>
+    <source src="song.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
 </div>
 
-</body>
-</html>
