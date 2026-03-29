@@ -2,14 +2,14 @@
 # 🎂 Happy Birthday Deepuu! 💖
 
 <div align="center">
-  <img src=deepuu "pic1.jpg" width="250" style="border-radius: 15px;">
-  <img src=deepuu "pic2.jpg" width="250" style="border-radius: 15px;">
-  <img src=deepuu "pic3.jpg" width="250" style="border-radius: 15px;">
+  <img src= "deep5244__14050109_18.jpg" width="250" style="border-radius: 15px;">
+  <img src= "SAVE_20250929_224254.jpg" width="250" style="border-radius: 15px;">
+  <img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
 
   <br><br>
 
   <div style="background: white; padding: 20px; border-radius: 15px; color: #333; max-width: 600px;">
-    <h2>🌸 Happy Birthday Deepuuu 💖</h2>
+    <h2> Happy Birthday Deepuuu 🫶🏻💖</h2>
     <p>
       Deepak,<br><br>
       Sach bolu.. main tumhare saath bahut khush rehti hoon.<br>
