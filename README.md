@@ -14,6 +14,8 @@ birthday deep💕
 <body>
 
 <div class="box">
+  <script> 
+  const images </script>
   <h1>🎂 Happy Birthday Deepuuu 💖</h1>
   <p>
     Deepak,<br>
