@@ -25,7 +25,7 @@
   ### 🎵 Listen to our song:
   <audio controls>
     <source src="song.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
+    ### 🎵 [Click here to play our song, Deepuu!](song.mp3) 🎶
 
+  </audio>
+</divas/>
