@@ -37,7 +37,9 @@ birthday deep💕
 <script>
   const images = [
     "deep5244__14050109_185847271.jpg",
+    
     "SAVE_20250929_224254.jpg",
+    
     "IMG-20260211-WA0006.jpg"
   ];
   let index = 0;
