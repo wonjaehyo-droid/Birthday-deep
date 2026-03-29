@@ -25,11 +25,9 @@
   ### 🎵 Listen to our song:
   <audio controls>
     <source src="song.mp3" type="audio/mpeg">
-    
- ### 🎵 [Deepuu, click here to play our song (Bekhudi) 🎶](bekhudi.mp3)
- 
-<audio controls>
-  <source src="bekhudi.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+---
+
+### 🎵 [Click here to play 'Bekhudi' for you, Deepuu! 🎶](bekhudi.mp3)
+
+---
 
