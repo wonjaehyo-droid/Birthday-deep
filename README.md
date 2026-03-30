@@ -36,9 +36,6 @@ birthday deep💕
 </div>
 ### 🎵 [Deepuu, click here to play our song 'bekhudi'! 🎶](bekhudi.mp3)
 </div>
-    
-  ];
-</script>
 
 </body>
 </html>
