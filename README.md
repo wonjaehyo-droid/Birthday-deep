@@ -38,12 +38,6 @@ birthday deep💕
 </div>
     
   ];
-  let index = 0;
-  const slide = document.getElementById("slideshow");
-  setInterval(() => {
-    index = (index + 1) % images.length;
-    slide.src = images[index];
-  }, 3000);
 </script>
 
 </body>
