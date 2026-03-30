@@ -27,8 +27,7 @@ birthday deep💕
   </p>
 
   <!-- Slideshow -->
-  <img id="slideshow" src="deep5244__14050109_185847271.jpg">
-    <img id="slideshow" src= "IMG_20260330_090319_077.jpg" >
+  <img id="slideshow" src= "IMG_20260330_090319_077.jpg" >
     
 
   <!-- Audio -->
@@ -38,14 +37,8 @@ birthday deep💕
 </div>
 
 <script>
-   images = [
-    <img src="deep5244__14050109_185847271.jpg", width="250" style="border-radius: 15px;">
-  <img src= "SAVE_20250929_224254.jpg" width="250" style="border-radius: 15px;" >
-    <img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
+   images =  <img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
     
-    "SAVE_20250929_224254.jpg",
-    
-    "IMG-20260211-WA0006.jpg"
   ];
   let index = 0;
   const slide = document.getElementById("slideshow");
