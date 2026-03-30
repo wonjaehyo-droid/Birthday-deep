@@ -28,6 +28,8 @@ birthday deep💕
 
   <!-- Slideshow -->
   <img id="slideshow" src="deep5244__14050109_185847271.jpg">
+    <img src= "SAVE_20250929_224254.jpg" >
+    
 
   <!-- Audio -->
   <audio autoplay loop controls>
