@@ -32,6 +32,25 @@ birthday deep💕
   <!-- Audio -->
   <audio autoplay loop controls>
     <source src="bekhudi.mp3" type="audio/mp3">
+<div align="center">
+  <h2>🎵 Listen to our song, Deepuu! 🎶</h2>
+  
+  <br>
+
+  <audio controls autoplay loop>
+    <div align="center">
+  <h2>🎵 Listen to our song, Deepuu! 🎶</h2>
+  
+  <br>
+
+  <audio controls autoplay loop>
+    <source src="bekhudi.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <br><br>
+  <p>Play button par click karein gaana sunne ke liye!</p>
+</div>
 
 </body>
 </html>
