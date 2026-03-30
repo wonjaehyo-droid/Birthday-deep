@@ -36,8 +36,6 @@ birthday deep💕
   </audio>
 </div>
 
-<script>
-   images =  <img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
     
   ];
   let index = 0;
