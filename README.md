@@ -34,7 +34,7 @@ birthday deep💕
     <source src="bekhudi.mp3" type="audio/mpeg">
   </audio>
 </div>
-### 🎵 [Deepuu, click here to play our song 'Bekhudi'! 🎶](bekhudi)
+### 🎵 [Deepuu, click here to play our song 'Bekhudi'! 🎶](bekhudi.mp3)
 </div>
     
   ];
