@@ -15,7 +15,7 @@ birthday deep💕
 
 <div class="box">
   </script>
-  <h1>🎂 Happy Birthday Deepuuu 🫶🩵</h1>
+  <h1>🎂 Happy Birthday Deepuuu 🫶🏻🩵</h1>
   <p>
     Deepak,<br>
     Sach bolu… main tumhare saath bahut khush rehti hoon.<br>
