@@ -37,8 +37,9 @@ birthday deep💕
 
 <script>
   const images = [
-    "deep5244__14050109_185847271.jpg", width="250" style="border-radius: 15px;">
-  <img src= "SAVE_20250929_224254.jpg" width="250" style="border-radius: 15px;"<img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
+    <img src="deep5244__14050109_185847271.jpg", width="250" style="border-radius: 15px;">
+  <img src= "SAVE_20250929_224254.jpg" width="250" style="border-radius: 15px;" 
+    <img src= "IMG-20260211-WA0006.jpg" width="250" style="border-radius: 15px;">
     
     "SAVE_20250929_224254.jpg",
     
