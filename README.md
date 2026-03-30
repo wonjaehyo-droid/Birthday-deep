@@ -31,7 +31,7 @@ birthday deep💕
    
   <!-- Audio -->
   <audio autoplay loop controls>
-    <source src="behkudisong.mp3" type="audio/mpeg">
+    <source src="behkudi.mp3" type="audio/mpeg">
   </audio>
 </div>
 ### 🎵 [Deepuu, click here to play our song 'Bekhudi'! 🎶](bekhudi.mp3)
