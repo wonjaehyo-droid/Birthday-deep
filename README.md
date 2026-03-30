@@ -15,7 +15,7 @@ birthday deep💕
 
 <div class="box">
   </script>
-  <h1>🎂 Happy Birthday Deepuuu 💖</h1>
+  <h1>🎂 Happy Birthday Deepuuu 🫶🩵</h1>
   <p>
     Deepak,<br>
     Sach bolu… main tumhare saath bahut khush rehti hoon.<br>
@@ -23,7 +23,7 @@ birthday deep💕
     Tumhara gaana sunna… woh alag hi feeling deta hai.<br>
     Kabhi kabhi tumhari yaad bhi aati hai… kaafi zyada.<br>
     Bas aise hi hamesha smile karte rehna.<br>
-    💖
+    💖🥺
   </p>
 
   <!-- Slideshow -->
