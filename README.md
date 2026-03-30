@@ -28,7 +28,7 @@ birthday deep💕
 
   <!-- Slideshow -->
   <img id="slideshow" src= "IMG_20260330_090319_077.jpg" >
-   <div style="background: white; padding: 20px; border-radius: 15px; color: #333; max-width: 600px; border: 1px solid #ff4d6d;">
+   
   <!-- Audio -->
   <audio autoplay loop controls>
     <source src="behkudisong.mp3" type="audio/mpeg">
