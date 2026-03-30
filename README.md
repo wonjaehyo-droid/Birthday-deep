@@ -30,14 +30,7 @@ birthday deep💕
   <img id="slideshow" src= "IMG_20260330_090319_077.jpg" >
    
   <!-- Audio -->
-  <audio autoplay loop controls>
-    <source src="bekhudi.mp3" type="audio/mp3">
-<div align="center">
-  <h2>🎵 Listen to our song, Deepuu! 🎶</h2>
-  
-  <br>
-
-  <audio controls autoplay loop>
+ <audio controls autoplay loop>
     <div align="center">
   <h2>🎵 Listen to our song, Deepuu! 🎶</h2>
   
