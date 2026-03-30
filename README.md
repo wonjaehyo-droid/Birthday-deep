@@ -15,7 +15,7 @@ birthday deep💕
 
 <div class="box">
   <script> 
-  const images </script>
+  const images =[ "SAVE_20250929_224254.jpg" </script>
   <h1>🎂 Happy Birthday Deepuuu 💖</h1>
   <p>
     Deepak,<br>
